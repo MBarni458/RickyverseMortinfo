@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182370246021",
+    "project_id": "rickiversemortinfo",
+    "storage_bucket": "rickiversemortinfo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182370246021:android:2bf14a89a804d4afc338ec",
+        "android_client_info": {
+          "package_name": "hu.mbarni.android.rickiversemortinfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-fErt8nureoz6hU-zabX18n8J1afLEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

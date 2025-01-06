@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RickiverseMortinfo</string>
+    <!--Common-->
+    <string name="error">Something went wrong</string>
+    <string name="unknown">Unknown</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Favorites</string>
+    <string name="episodes">Episodes</string>
+    <string name="characters">Characters</string>
+    <!--Episode list-->
+    <string name="season">Season %1$d</string>
+    <!--Episode-->
+    <string name="rate">Rate</string>
+    <string name="created_at">Created at: %1$s</string>
+    <string name="rating">Rating: %1$s/%2$s</string>
+    <!--Rating dialog-->
+    <string name="rate_dialog_title">Rate it from %1$s to %2$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <!--Character-->
+    <string name="status">Status: %1$s</string>
+    <string name="gender">Gender: %1$s</string>
+    <string name="species">Species: %1$s</string>
+</resources>
